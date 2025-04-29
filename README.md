@@ -28,6 +28,8 @@ This project develops and compares deep learning models like CNN, DNN, RNN, VGG1
 #📂 Dataset
   Source: Kaggle — APTOS 2019 Blindness Detection
   Retinal fundus images labeled by severity of Diabetic Retinopathy.
+  https://www.kaggle.com/datasets/pkdarabi/diagnosis-of-diabetic-retinopathy
+
 
 #🚀 Setup Instructions
 1. Clone the reposity
